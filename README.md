@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack - Estudante de Ciência da Computação`**
 
-Meu nome é Jorge Luiz Jesus Ferreira, tenho 20 anos e sou um entusiasta da tecnologia com 6 anos de experiência em estudos de programação.
+Meu nome é Jorge Luiz Jesus Ferreira, tenho 21 anos e sou um entusiasta da tecnologia com 7 anos de experiência em estudos de programação.
 
 Sou formado como Técnico em Informática e atualmente curso o Bacharelado em Ciência da Computação, ambas as formações pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – Campus Presidente Epitácio.
 
